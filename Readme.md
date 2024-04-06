@@ -4,16 +4,16 @@
 
 *INTEGRANTES*
 
-*RODAS, Eduardo <rodasedu88@gmail.com>
+* RODAS, Eduardo <rodasedu88@gmail.com>
 
 
-*VEGA, Pablo <vegapablog@gmail.com>
+* VEGA, Pablo <vegapablog@gmail.com>
 
 
-*MUGNOS, Maximiliano <maximiliano.mugnos@gmail.com>
+* MUGNOS, Maximiliano <maximiliano.mugnos@gmail.com>
 
 
-*PAEZ, Gaston <gastonpaez540@yahoo.com>
+* PAEZ, Gaston <gastonpaez540@yahoo.com>
 
 
-*VILLAR, Sergio <villar.sergio2015@gmail.com>
+* VILLAR, Sergio <villar.sergio2015@gmail.com>
